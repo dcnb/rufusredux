@@ -1,9 +1,13 @@
 display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
-Subjects,/subjects.html,
-Locations,/locations.html,
+Clouds,,
+Subjects,/subjects.html,Clouds
+Latitudes,/lats.html,Clouds
+Longitudes,/longitudes.html,Clouds
 Map,/map.html,
 Timeline,/timeline.html,
 Data,/data.html,
-About,/about.html,
+About,,
+About the Collection,/about/collection.html,About
+About the Archivist,/about/steward.html,About
